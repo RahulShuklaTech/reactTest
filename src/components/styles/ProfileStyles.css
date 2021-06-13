@@ -1,0 +1,39 @@
+img {
+    width: 10rem;
+    height: 10rem;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.profile-page{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    gap: 2rem;
+}
+
+.prev-trips{
+    background-color: #603bbb;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.trips{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+
+.trip{
+    padding: 1rem;
+}
